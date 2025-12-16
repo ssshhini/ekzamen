@@ -10,6 +10,7 @@ class User {
         password = pwd;
     }
 }
+
 Наследование 
 
 class Animal
@@ -21,6 +22,7 @@ class Animal
         Console.WriteLine($"{Name} ест");
     }
 }
+
 Полиморфизм
 
 Animal a = new Dog();
@@ -32,4 +34,4 @@ abstract class Shape
 {
     public abstract double GetArea();
 }
-
+``

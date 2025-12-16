@@ -3,7 +3,7 @@
 # Билет номер 1
 # Вопрос номер 2
 ```C#
-# Инкапсуляция
+Инкапсуляция
 
 class User {
     private string password;
@@ -11,7 +11,7 @@ class User {
         password = pwd;
     }
 }
-# Наследование 
+Наследование 
 
 class Animal
 {
@@ -22,14 +22,15 @@ class Animal
         Console.WriteLine($"{Name} ест");
     }
 }
-# Полиморфизм
+Полиморфизм
 
 Animal a = new Dog();
 a.Sound();
 
-# Абстракция
+Абстракция
 
 abstract class Shape
 {
     public abstract double GetArea();
 }
+

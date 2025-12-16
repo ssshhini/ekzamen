@@ -4,6 +4,7 @@
 # Вопрос номер 2
 
 # Инкапсуляция
+```C#
 class User {
     private string password;
     public void SetPassword(string pwd) {

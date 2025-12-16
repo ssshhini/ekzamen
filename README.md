@@ -2,7 +2,7 @@
 
 # Билет номер 1
 # Вопрос номер 2
-'''C#
+
 # Инкапсуляция
 class User {
     private string password;

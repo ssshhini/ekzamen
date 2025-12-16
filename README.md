@@ -1,8 +1,9 @@
 # Примеры для билетов
 
 # Билет 1 вопрос 2
-```C#
 Инкапсуляция
+```C#
+
 
 class User {
     private string password;

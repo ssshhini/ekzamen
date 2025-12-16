@@ -2,9 +2,9 @@
 
 # Билет номер 1
 # Вопрос номер 2
-
-# Инкапсуляция
 ```C#
+# Инкапсуляция
+
 class User {
     private string password;
     public void SetPassword(string pwd) {
@@ -12,7 +12,7 @@ class User {
     }
 }
 # Наследование 
-```C#
+
 class Animal
 {
     public string Name { get; set; }
@@ -23,12 +23,12 @@ class Animal
     }
 }
 # Полиморфизм
-```C#
+
 Animal a = new Dog();
 a.Sound();
 
 # Абстракция
-```C#
+
 abstract class Shape
 {
     public abstract double GetArea();
